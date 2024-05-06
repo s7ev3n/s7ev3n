@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am s7ev3n. 
+
+- 🔭 I’m a Research Scientist focusing on 3D Object Detection in Autonomous Driving at BOSCH Research. 
+- 🌱 I’m currently very interested in LLM Agents, developing a project called `sine` which is my wish to have a personal AI mentor.
+- 👯 I’m currently learning frontend and backend stuff (making `sine` better), if you are interested in `sine` and good at frontend and backend stuff, let us talk :)
+
+
 <!--
 **s7ev3n/s7ev3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
