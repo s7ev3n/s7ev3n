@@ -2,9 +2,9 @@
 
 I am s7ev3n. 
 
-- 🔭 I’m a Research Scientist focusing on 3D Object Detection in Autonomous Driving at BOSCH Research. 
-- 🌱 I’m currently very interested in LLM Agents, developing a project called `sine` which is my wish to have a personal AI mentor.
-- 👯 I’m currently learning frontend and backend stuff (making `sine` better), if you are interested in `sine` and good at frontend and backend stuff, let us talk :)
+- 🔭 I’m a Senior Research Engineer focusing on VLA in AD at Li Auto Foundation Model Group, especially on L and A. 
+- 🌱 I write at `s7ev3n.xyz` about some learning notes.
+- 👯 I am open to talk :)
 
 
 <!--
