@@ -2,10 +2,8 @@
 
 I am s7ev3n. 
 
-- 🔭 I’m a Senior Research Engineer focusing on VLA in AD at Li Auto Foundation Model Group, especially on L and A. 
-- 🌱 I write at `s7ev3n.xyz` about some learning notes.
-- 👯 I am open to talk :)
-
+- 🔭 I’m focusing on pretraining Robot Foundation Models
+- 🌱 I write at `s7ev3n.space` about some learning notes.
 
 <!--
 **s7ev3n/s7ev3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
